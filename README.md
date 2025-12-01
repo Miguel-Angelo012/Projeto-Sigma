@@ -9,7 +9,15 @@
 
 ![Print do Projeto HTML/CSS](https://github.com/user-attachments/assets/08fc1a16-40eb-4af5-babd-c0d2fe12f2ef)
 
-### Comparação:
+### Semelhanças:
+
+* Mesma cor de fundo e os detalhes;
+* A organização dos filmes é quase idéntica;
+* Mesmos filmes escolhidos;
+* Mesmas cores do header e do footer são as mesmas;
+* Mesmo sombreamento nos filmes;
+
+### Diferenças:
 
 * O tamanho do projeto HTML/CSS é muito maior que o projeto Figma;
 * A fonte da logo e dos links "Início" e "Contatos" não é a mesma, nem mesmo a imagem da pipoca;
@@ -25,7 +33,13 @@
 ### Projeto HTML/CSS:
 ![Print do Projeto HTML/CSS](https://github.com/user-attachments/assets/6b293af8-3ce5-409d-b6e4-82a6ed4d4e11)
 
-### Comparação:
+### Semelhanças:
+
+* Mesmas cores;
+* Mesmo nível de transparência do formulário;
+* Mesmo sombreamento do formulário;
+
+### Diferenças:
 
 * A área do formulário do projeto HTML/CSS é muito maior e menos arredondada que a do projeto Figma;
 * O espaçamento do conteúdo dentro do formulário do projeto HTML/CSS em relação a borda é menor, diferente do projeto Figma;
@@ -41,9 +55,15 @@
 ### Projeto HTML/CSS:
 ![Print do Projeto HTML/CSS](https://github.com/user-attachments/assets/40f3993e-d8c0-4019-97d7-eece3626fe3b)
 
-### Comparação:
+### Semelhanças:
 
-* O espaçamento entre o cabeçalho/footer e o conteúdo é menor no projeto HTML/CSS, diferente do projeto Figma;
+* Mesma organização entre o poster e a parte de detalhes;
+* Mesma organização em detalhes;
+* Mesmo sombreamento no poster e parte de detalhes;
+
+### Diferenças:
+
+* O espaçamento entre o header/footer e o conteúdo é menor no projeto HTML/CSS, diferente do projeto Figma;
 * Os detalhes no projeto HTML/CSS possuem um espaçamento menor da borda, diferente do projeto Figma;
 * O poster do filme e a caixa de detalhes são mais espaçadas da borda do site no projeto HTML/CSS, diferente do projeto Figma;
 * O título do filme em detalhes é menor no projeto HTML/CSS que o projeto Figma;
