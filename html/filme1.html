@@ -8,35 +8,46 @@
 
     <body>
         <header>
-            <h1>FilmSpoiler</h1>
-            <img src="../img/pipoca.png" width="100">
-            <nav>
-                <a href="../index.html">Início</a>
-                <a href="../html/contatos.html">Contatos</a>
-            </nav>
+                <div id="logo">
+                    <h1 id="titulo">FilmSpoiler</h1>
+                    <img id="pipoca" src="../img/pipoca.png">
 
-            <button><img src="../img/lupa.png" width="100"></button>
-            <button><img src="../img/menu.png" width="100"></button>
+                    <nav>
+                        <a class="links" href="../index.html">Início</a>
+                        <a class="links" href="contatos.html">Contatos</a>
+                    </nav>
+                </div>
+
+                <div id="head-button">
+                    <button class="box-circle"><img class="box-img" src="../img/lupa.png"></button>
+                    <button class="box-circle"><img class="box-img" src="../img/menu.png"></button>
+                </div>
         </header>
 
-        <figure>
-            <img src="../img/johnwick4.jpg">
+        <main>
+            <figure class="filme">
+                <img class="img-filme" src="../img/johnwick4.jpg">
 
-            <figcaption>
-                <h1>John Wick: Capítulo 4</h1>
+                <figcaption class="detalhes">
+                    <h1 class="titulo-detalhes">John Wick: Capítulo 4</h1>
 
-                <p>O assassino profissional John Wick (Keanu Reeves) que estava aposentado precisa continuar sua jornada em busca de vingança. Ele finalmente descobre um caminho para derrotar a Alta Cúpula para que possa finalmente ser livre. No entanto, para isso, deve vencer um novo inimigo com poderosas alianças no mundo inteiro. Nessa trama, antigos amigos podem se tornar inimigos.</p>
+                    <p class="sinopse">O assassino profissional John Wick (Keanu Reeves) que estava aposentado precisa continuar sua jornada em busca de vingança. Ele finalmente descobre um caminho para derrotar a Alta Cúpula para que possa finalmente ser livre. No entanto, para isso, deve vencer um novo inimigo com poderosas alianças no mundo inteiro. Nessa trama, antigos amigos podem se tornar inimigos.</p>
 
-                <ul>
-                    <li>Gênero: Ação, Suspense</li>
-                    <li>Duração: 2h 49min.</li>
-                    <li>Direção: Chad Stahelski</li>
-                    <li>Roteiro: Michael Finch, Shay Hatten</li>
-                    <li>Distribuidor: Paris Filmes</li>
-                    <li>Classificação: 14 anos</li>
-                    <li>Ano: 2023</li>
-                </ul>
-            </figcaption>
-        </figure>
+                    <ul class="desc-detalhes">
+                        <li>Gênero: Ação, Suspense</li>
+                        <li>Duração: 2h 49min</li>
+                        <li>Direção: Chad Stahelski</li>
+                        <li>Roteiro: Michael Finch, Shay Hatten</li>
+                        <li>Distribuidor: Paris Filmes</li>
+                        <li>Classificação: 14 anos</li>
+                        <li>Ano: 2023</li>
+                    </ul>
+                </figcaption>
+            </figure>
+        </main>
+
+        <footer>
+            <p>Desenvolvedores: Miguel Ângeo Lima de Sousa / Rute Nunes do Nascimento</p>
+        </footer>
     </body>
 </html>
