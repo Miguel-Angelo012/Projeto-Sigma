@@ -1,4 +1,4 @@
-# Projeto-Sigma
+# Projeto-Figma to HTML
 
 ## Página Principal:
 
