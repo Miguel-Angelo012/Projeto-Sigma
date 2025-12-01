@@ -28,6 +28,7 @@
 ### Comparação:
 
 * A área do formulário do projeto HTML/CSS é muito maior e menos arredondada que a do projeto Figma;
+* O espaçamento do conteúdo dentro do formulário do projeto HTML/CSS em relação a borda é menor, diferente do projeto Figma;
 * A área de texto do projeto HTML/CSS não possui bordas redondas como o projeto Figma. Além de ocupar bastante o formulário;
 * O projeto HTML/CSS possui, além do botão de enviar, o botão de resetar, diferente do projeto Figma;
 * Não possuem a mesma fonte;
